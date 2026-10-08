@@ -8,10 +8,6 @@
 #define NUM 6
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 80
 
-&trackball_peripheral {
-    scroll-layers = <5>;
-};
-
 &mt {
     flavor = "balanced";
     quick-tap-ms = <0>;
