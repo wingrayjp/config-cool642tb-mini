@@ -49,8 +49,6 @@
 &mt LEFT_CONTROL Z  &mt LEFT_ALT X  &mt LSHIFT C  &mt LEFT_GUI V  &kp B        &mo 5               &trans         &kp N        &mt RGUI M  &mt RSHFT COMMA  &mt RCTRL PERIOD  &mt RALT AT
 &kp ESC             &kp LEFT_GUI    &mo 6         &kp GRAVE       &lt 2 SPACE  &mt LSHIFT TAB      &kp BACKSPACE  &lt 1 ENTER                                                 &mt RSHFT LBKT
             >;
-
-            sensor-bindings = <&encoder_msc_down_up>;
         };
 
         FUNCTION {
